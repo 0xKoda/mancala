@@ -1,21 +1,21 @@
-<img align="right" width="150" height="150" top="100" src="./assets/readme.jpg">
+<img align="right" width="150" height="150" top="100" src="./assets/mancala.jpg">
 
-# femplate • [![ci](https://github.com/abigger87/femplate/actions/workflows/ci.yml/badge.svg)](https://github.com/abigger87/femplate/actions/workflows/ci.yml) ![license](https://img.shields.io/github/license/abigger87/femplate?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
+# mancala • [![ci](https://github.com/abigger87/mancala/actions/workflows/ci.yml/badge.svg)](https://github.com/abigger87/mancala/actions/workflows/ci.yml) ![license](https://img.shields.io/github/license/abigger87/mancala?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
 
 A **Clean**, **Robust** Template for Foundry Projects.
 
 ## Getting Started
 
-Click [`use this template`](https://github.com/abigger87/femplate/generate) to create a new repository with this repo as the initial state.
+Click [`use this template`](https://github.com/abigger87/mancala/generate) to create a new repository with this repo as the initial state.
 
 Or, if your repo already exists, run:
 ```sh
-forge init --template https://github.com/abigger87/femplate
+forge init --template https://github.com/abigger87/mancala
 git submodule update --init --recursive
 forge install
 ```
 
-Run `./utils/rename.sh` to rename all instances of `femplate` with the name of your project/repository.
+Run `./utils/rename.sh` to rename all instances of `mancala` with the name of your project/repository.
 
 ## Blueprint
 
@@ -101,7 +101,7 @@ For a full list of configuration options, see the Foundry [configuration documen
 
 ## License
 
-[AGPL-3.0-only](https://github.com/abigger87/femplate/blob/master/LICENSE)
+[AGPL-3.0-only](https://github.com/abigger87/mancala/blob/master/LICENSE)
 
 
 ## Acknowledgements
